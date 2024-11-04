@@ -2,12 +2,13 @@
 
 | Student ID       | Student Name                      | Study Program         | Origin of University                   | Learning Path         | LinkedIn Link               |
 |------------------|-----------------------------------|-----------------------|----------------------------------------|-----------------------|------------------------------|
-| C689B4KY0507     | Andi Yahya                       | Teknik Informatika    | Universitas Muhammadiyah Bengkulu     | Cloud Computing          | [LinkedIn](https://linkedin.com/in/andi-yahya)   |
-| C008B4KY2150     | Kawakib Nurin Mubaraka           | Ilmu Komputer         | Universitas Gadjah Mada               | Cloud Computing       | [LinkedIn](https://linkedin.com/in/kawakib-nurin) |
-| C179B4KY2693     | Muhammad Ageng Zayem Wahid       | Informatika           | Universitas Ahmad Dahlan              | Mobile Development    | [LinkedIn](https://linkedin.com/in/muhammad-ageng)|
-| M258B4KY2971     | Muhammad Nizar Zulmi Rohmatulloh | Informatika           | Universitas Muhammadiyah Malang       | Web Development       | [LinkedIn](https://linkedin.com/in/muhammad-nizar)|
-| M467B4KY0140     | Ady Syamsuri                      | Ilmu Komputer         | Universitas Sampoerna                 | Data Science          | [LinkedIn](https://linkedin.com/in/ady-syamsuri)  |
-| A307B4KX1609     | Ghaniya Faida Roefmilina         | Teknik Informatika    | Universitas Raharja                   | Cybersecurity         | [LinkedIn](https://linkedin.com/in/ghaniya-faida)  |
+| M467B4KY0140     | Ady Syamsuri                      | Ilmu Komputer         | Universitas Sampoerna                 | Machine Learning          |                              |
+| C689B4KY0507     | Andi Yahya                       | Teknik Informatika    | Universitas Muhammadiyah Bengkulu     | Cloud Computing          |                              |
+| C008B4KY2150     | Kawakib Nurin Mubaraka           | Ilmu Komputer         | Universitas Gadjah Mada               | Cloud Computing       |                              |
+| C179B4KY2693     | Muhammad Ageng Zayem Wahid       | Informatika           | Universitas Ahmad Dahlan              | Cloud Computing    |                              |
+| M258B4KY2971     | Muhammad Nizar Zulmi Rohmatulloh | Informatika           | Universitas Muhammadiyah Malang       | Machine Learning       |                              |
+| A307B4KX1609     | Ghaniya Faida Roefmilina         | Teknik Informatika    | Universitas Raharja                   | Mobile Development         |                              |
+
 
 
 <!--
